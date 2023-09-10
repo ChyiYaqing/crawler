@@ -1,4 +1,4 @@
-package demo
+package interface_demo
 
 import "testing"
 
