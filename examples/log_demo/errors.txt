@@ -1,0 +1,1 @@
+ERROR: 2023/09/10 09:13:54 main.go:31: Something has failed
